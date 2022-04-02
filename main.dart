@@ -1,6 +1,23 @@
 import 'dart:io';
 
-void main() {
+// void main() {
+
+  // ADDING THE SUM OF LIST IS DONE
+//   var addition = 0;
+//   var testingList = [
+//     1,
+//     3,
+//     4,
+//     5,
+//     6,
+//     7,
+//   ];
+
+//   for (var i = 0; i < testingList.length; i++) {
+//     addition += testingList[i];
+//   }
+//   print("Sum : ${addition}");
+// }
   // question one IS DONE
   // int factorial = 1;
   // int nume = 5;
@@ -21,4 +38,15 @@ void main() {
 
   // var pa = stdin.readLineSync();
   // print(pa.runtimeType);
-}
+
+ // PYRAMID QUESTION is done 
+//   int numbers;
+//   for (int i = 0; i < 9; i++) {
+//     numbers = 1;
+//     for (int j = 0; j <= i; j++) {
+//       stdout.write(numbers);
+//       numbers++;
+//     }
+//     stdout.writeln();
+//   }
+// }
